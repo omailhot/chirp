@@ -10,7 +10,6 @@ import toast from "react-hot-toast";
 import { PageLayout } from "~/components/layout";
 import { PostView } from "~/components/postview";
 
-
 const CreatePostWizard = () => {
   const { user } = useUser();
 
